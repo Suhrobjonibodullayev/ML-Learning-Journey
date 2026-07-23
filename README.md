@@ -41,7 +41,7 @@ ml-learning-journey/
 │   ├── 02_numpy_basics.ipynb
 │   ├── 03_pandas_basics.ipynb
 │   ├── 04_data_visualization.ipynb
-│   └── 06_machine_learning_basics.ipynb
+│   └── 05_machine_learning_basics.ipynb
 │
 ├── data/
 │   └── sample_datasets.csv
